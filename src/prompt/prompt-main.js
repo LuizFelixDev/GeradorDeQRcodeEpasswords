@@ -7,3 +7,7 @@ const mainPrompt = [
         required: true,
     }
 ]
+
+export {
+    mainPrompt
+}
